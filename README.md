@@ -2,7 +2,7 @@
 
 # Overview
 The purpose of this data analysis was performed for Pyber, a ride sharing service application. The
-ride share data was analyzed to find metrics for rural, suburban, and urban cities.  Some of the metrics for the city types include: total rides, total drivers, total fares, average for fares per ride, average fares per drivers, and total fares. Dataframes and linecharts where generated to visually summarize these metrics.
+ride share data was analyzed to find metrics for rural, suburban, and urban cities.  Some of the metrics for the city types include: total rides, total drivers, total fares, average fares per ride, average fares per drivers, and total fares. Dataframes and linecharts where generated to visually summarize these metrics.
 
 
 
