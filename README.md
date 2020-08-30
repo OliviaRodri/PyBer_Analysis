@@ -19,11 +19,7 @@ The following metrics were extracted from the ride sharing data and categorized 
 - Total drivers
     - Rural: 78         
     - Suburban: 490
-    - Urban: 2,405
-- Total fares
-    - Rural: $4,327.93         
-    - Suburban: $19,356.33
-    - Urban: $39,854.38
+    - Urban: 2,405  
 - Average fare per ride
     - Rural: $34.62         
     - Suburban: $30.97
@@ -32,12 +28,35 @@ The following metrics were extracted from the ride sharing data and categorized 
     - Rural: $55.49         
     - Suburban: $39.50
     - Urban: $16.57
+- Total fares
+    - Rural: $4,327.93         
+    - Suburban: $19,356.33
+    - Urban: $39,854.38
 
-Image of dataframe provided for categorized results:
+Image of dataframe provided below for categorized results by city types:
 
 ![City_type_dataframe](Resources/totals_averages_city_type.PNG)
 
 #
 
 # Summary
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. 
+In summary, there are two important disparities uncovered between the three city types. They are listed below followed by reccommendations to help.
+
+- Desparity I
+    - The ratio of total rides to total drivers: 
+      - Reccomendation is to add more drivers to the rural and suburban cities
+- Desparity II          
+    - The average fare per driver
+       - Recommendation is to reduce the amount of drivers in the urban city type
+
+My closing reccommendation is to collect more data to help find the optimal ratio for total rides to total drivers and in average fare per driver. Working to achieve the similar ratios among all city types would help minimize the two noticeable disparities.  
+#
+
+
+My reccommendation is to collect more data that will help find the optimal ratio of total rides to total drivers.  the second disparity in average fare per driver.
+
+
+
+
+ 
+![City_line_graph](analysis/PyBer_fare_summary.png)
