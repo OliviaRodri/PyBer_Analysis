@@ -2,7 +2,7 @@
 
 # Overview
 The purpose of this data analysis was performed for Pyber, a ride sharing service application. The
-ride share data was analyzed to find metrics for rural, suburban, and urban cities.  Some of the metrics for the city types include: total rides, total drivers, total fares, averages for fares per ride, as well as average fares per drivers, and total fares. Dataframes and linecharts where genearated to visualy summarize these metrics.
+ride share data was analyzed to find metrics for rural, suburban, and urban cities.  Some of the metrics for the city types include: total rides, total drivers, total fares, average for fares per ride, average fares per drivers, and total fares. Dataframes and linecharts where generated to visually summarize these metrics.
 
 
 
@@ -50,13 +50,12 @@ In summary, there are two important disparities uncovered between the three city
        - Recommendation is to reduce the amount of drivers in the urban city type
 
 My closing reccommendation is to collect more data to help find the optimal ratio for total rides to total drivers and in average fare per driver. Working to achieve the similar ratios among all city types would help minimize the two noticeable disparities.  
-#
 
 
-My reccommendation is to collect more data that will help find the optimal ratio of total rides to total drivers.  the second disparity in average fare per driver.
-
-
+Multiple linechart provided below:
 
 
  
 ![City_line_graph](analysis/PyBer_fare_summary.png)
+
+#
